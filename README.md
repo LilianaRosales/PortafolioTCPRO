@@ -10,7 +10,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web]![2023-07-29 (2)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/004cd85e-7938-48ef-b4d6-6da8eeb71cbc)
+![2023-07-29 (2)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/004cd85e-7938-48ef-b4d6-6da8eeb71cbc)
 ![2023-07-29 (5)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/42412550-57db-4cf4-9a45-42de4f5085f0)
 
 
