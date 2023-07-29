@@ -10,23 +10,29 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web]![2023-07-29 (2)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/004cd85e-7938-48ef-b4d6-6da8eeb71cbc)
+![2023-07-29 (5)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/42412550-57db-4cf4-9a45-42de4f5085f0)
+
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![2023-07-29 (7)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/9edec113-5210-4c3e-b39e-db388eaae61b)
+
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![2023-07-29 (9)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/a28cd9af-194e-479d-b041-917ff92658a0)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![2023-07-29 (10)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/0021a379-8817-40e1-a638-816bc85b74f3)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![2023-07-29 (13)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/e772cef5-8e55-40a9-85a9-bea8200798e6)
+
 
 ## Tecnologías
 
