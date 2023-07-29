@@ -6,8 +6,6 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-### Capturas de pantalla:
-
 Primera parte de la página web:
 
 ![2023-07-29 (2)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/412d98eb-d17b-4b78-b87b-bcb212cec5d1)
