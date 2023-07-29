@@ -6,32 +6,27 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
+### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![2023-07-29 (2)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/004cd85e-7938-48ef-b4d6-6da8eeb71cbc)
-![2023-07-29 (5)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/42412550-57db-4cf4-9a45-42de4f5085f0)
-
+![Primera parte de la página web]( /portafolioTCPRO-main/imagenes/2023-07-29%20(2).png/portafolioTCPRO-main/imagenes/2023-07-29%20(5).png)
 
 Experiencia:
 
-![2023-07-29 (7)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/9edec113-5210-4c3e-b39e-db388eaae61b)
-
+![Experiencia](/portafolioTCPRO-main/imagenes/2023-07-29%20(7).png)
 
 Proyectos:
 
-![2023-07-29 (9)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/a28cd9af-194e-479d-b041-917ff92658a0)
-
+![Proyectos](/portafolioTCPRO-main/imagenes/2023-07-29%20(9).png)
 
 Testimonios:
 
-![2023-07-29 (10)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/0021a379-8817-40e1-a638-816bc85b74f3)
-
+![Testimonios](/portafolioTCPRO-main/imagenes/2023-07-29%20(11).png)
 
 Contacto:
 
-![2023-07-29 (13)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/e772cef5-8e55-40a9-85a9-bea8200798e6)
-
+![Contacto](/portafolioTCPRO-main/imagenes/2023-07-29%20(13).png)
 
 ## Tecnologías
 
