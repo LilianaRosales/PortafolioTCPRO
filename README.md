@@ -10,23 +10,29 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web]( /portafolioTCPRO-main/imagenes/2023-07-29%20(2).png/portafolioTCPRO-main/imagenes/2023-07-29%20(5).png)
+![2023-07-29 (2)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/412d98eb-d17b-4b78-b87b-bcb212cec5d1)
+
+![2023-07-29 (5)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/997d567f-434a-4738-9492-64f5342579d5)
+
 
 Experiencia:
 
-![Experiencia](/portafolioTCPRO-main/imagenes/2023-07-29%20(7).png)
+![2023-07-29 (7)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/b922f783-4c03-450b-a64a-95edc877cacc)
 
 Proyectos:
 
-![Proyectos](/portafolioTCPRO-main/imagenes/2023-07-29%20(9).png)
+![2023-07-29 (9)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/316137e2-ce2c-455d-9633-4810021532d6)
+
 
 Testimonios:
 
-![Testimonios](/portafolioTCPRO-main/imagenes/2023-07-29%20(11).png)
+![2023-07-29 (11)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/31ba3056-ab65-43a2-a160-c289963071d1)
+
 
 Contacto:
 
-![Contacto](/portafolioTCPRO-main/imagenes/2023-07-29%20(13).png)
+![2023-07-29 (13)](https://github.com/LilianaRosales/PortafolioTCPRO/assets/140031178/97c5e255-910a-4024-8154-31f76806b874)
+
 
 ## Tecnologías
 
