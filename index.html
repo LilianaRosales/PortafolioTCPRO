@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!-- Metadatos -->
+    <meta charset="utf-8">
+    <meta name="author" content="Liliana">
+    <meta name="description" content="Portafolio de desarrollo web de Liliana">
+    <meta name="keywords" content="HTML, CSS, JavaScript, React">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Titulo -->
+    <title>Liliana Rosales | Desarrollo Web Front-End</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/portafolioTCPRO-main/imagenes/star (1).png">
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <!-- Iconos de Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <!-- CSS -->
+    <link href="style.css" rel="stylesheet">
+    <!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&family=Caprasimo&family=Coming+Soon&family=DM+Serif+Text&family=EB+Garamond&family=Edu+SA+Beginner&family=IBM+Plex+Mono:wght@500&family=Kiwi+Maru&family=Pacifico&family=Preahvihear&family=Shippori+Mincho+B1:wght@500&family=Sniglet&family=Viga&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&family=Caprasimo&family=Coming+Soon&family=DM+Serif+Text&family=EB+Garamond&family=Edu+SA+Beginner&family=IBM+Plex+Mono:wght@500&family=Kiwi+Maru&family=Pacifico&family=Playfair+Display+SC&family=Preahvihear&family=Shippori+Mincho+B1:wght@500&family=Sniglet&family=Viga&family=Yeseva+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&family=Caprasimo&family=Coming+Soon&family=DM+Serif+Text&family=EB+Garamond&family=Edu+SA+Beginner&family=IBM+Plex+Mono:wght@500&family=Kiwi+Maru&family=Pacifico&family=Playfair+Display+SC&family=Preahvihear&family=Roboto+Mono&family=Shippori+Mincho+B1:wght@500&family=Sniglet&family=Viga&family=Yeseva+One&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Barra de navegacion -->
+    <nav class="navbar navbar-expand-md navbar-light">
+      <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggler" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar-toggler">
+          <a class="navbar-brand" href="#">
+            <img class="logo" src="/portafolioTCPRO-main/imagenes/paper-plane.png" width="50" alt="Logo de la página web">
+          </a>
+          <ul class="navbar-nav d-flex justify-content-center align-items-center">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#sobre-mi"> <strong>Sobre mí</strong></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#proyectos"><strong>Proyectos</strong></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#testimonios"> <strong>Testimonios</strong></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contacto"> <strong>Contacto</strong></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Seccion Hero -->
+    <section class="hero align-items-stretch">
+      <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
+        <img class="hero-imagen-desarrollador rounded-circle" src="/portafolioTCPRO-main/imagenes/fea.jpg" alt="Foto de Jane Doe">
+        <h1>Liliana Rosales</h1>
+        <!--<h2>Desarrollo sitios web y escribo artículos sobre programación.</h2>-->
+
+        <!--Animación con JavaScript-->
+        <h2 class="text-info mb-4" id="typewriter"></h2>
+      </div>
+      <div class="hero-inferior">
+
+      </div>
+    </section>
+
+    <!-- Sobre mi -->
+    <section id="sobre-mi" class="sobre-mi seccion-oscura">
+      <div class="contenedor">
+        <h2 class="seccion-titulo">Acerca de mí</h2>
+        <p class="seccion-texto1"> ¡Hola! Me lllamo Liliana y tengo 22 años.  Soy Diseñador Frontend Jr. Me gusta estar en constante aprendizaje para mejorar mis habilidades dentro del mundo de la programación. </p>
+         <p class="seccion-texto2">Dato extra: Soy amante de las pantas :) </p>
+      </div>
+    </section>
+
+    <!-- Experiencia -->
+    <section class="experiencia seccion-clara">
+      <div class="container text-center">
+        <div class="row">
+          <!-- Desarrollo Web -->
+          <div class="columna col-12 col-md-4">
+            <i class="bi bi-laptop"></i>
+            <p class="experiencia-titulo">Desarrollo Web</p>
+            <p>Desarrollo Front-end. </p>
+            <div class="badges-contenedor">
+              <span class="badge bg-info text-dark">HTML</span>
+              <span class="badge bg-info text-dark">CSS</span>
+              <span class="badge bg-info text-dark">JavaScript</span>
+              <span class="badge bg-info text-dark">React</span>
+            </div>
+          </div>
+          <!-- Articulos -->
+          <div class="columna col-12 col-md-4">
+            <i class="bi bi-laptop"></i>
+            <p class="experiencia-titulo titulo1">Artículos</p>
+            <p>Desarrollando un sitio web para la publicación de mis artículos de investigación. Me interesan temas sobre ciencia y tecnología.</p>
+            <div class="badges-contenedor">
+              <span class="badge bg-info text-dark">Escribir</span>
+              <span class="badge bg-info text-dark">Editar</span>
+              <span class="badge bg-info text-dark">Blogs</span>
+            </div>
+          </div>
+          <!-- Estudiante -->
+          <div class="columna col-12 col-md-4">
+            <i class="bi bi-laptop"></i>
+            <p class="experiencia-titulo">Estudiante</p>
+            <p>Soy estudiante de la Licenciatura en Administración por parte de la Universidad Autónoma del Estado de México.</p>
+            <div class="badges-contenedor">
+              <span class="badge bg-info text-dark">Tecnolochicas PRO</span>
+              <span class="badge bg-info text-dark">Desarrollo Web</span>
+              <span class="badge bg-info text-dark">Python</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Proyectos -->
+    <section id="proyectos" class="proyectos-recientes seccion-clara d-flex flex-column">
+      <h2 class="seccion-titulo texto-negro">Mis proyectos recientes</h2>
+      <h3 class="seccion-descripcion">Estos son algunos proyectos que he creado recientemente...</h3>
+      <!-- Galeria de Proyectos -->
+      <div class="container text-center proyectos-contenedor">
+        <div class="row">
+          <!-- Proyecto 1 -->
+          <div class="col-12 col-md-6 col-lg-4">
+            <div class="proyecto">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png" alt="Proyecto 1">
+              <div class="overlay">
+                <p>Clon de Google</p>
+                <div class="iconos-contenedor">
+                  <a href="https://github.com/LilianaRosales" target="_blank" rel="noopener noreferrer">
+                    <i class="bi bi-github"></i>
+                  </a>
+                  <a href="https://clondegooglee.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <i class="bi bi-laptop"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Proyecto 2 -->
+          <div class="col-12 col-md-6 col-lg-4">
+            <div class="proyecto">
+              <img src="/portafolioTCPRO-main/imagenes/2023-07-27 (3).png" alt="Proyecto 1">
+              <div class="overlay">
+                <p>Página Web</p>
+                <div class="iconos-contenedor">
+                  <a href="https://github.com/LilianaRosales" target="_blank" rel="noopener noreferrer">
+                    <i class="bi bi-github"></i>
+                  </a>
+                  <a href="https://paginawebhously.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <i class="bi bi-laptop"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    </section>
+
+    <!-- Testimonios -->
+    <section id="testimonios" class="testimonios seccion-clara">
+      <h2 class="seccion-titulo">Testimonios</h2>
+      <h3 class="seccion-descripcion">Estos son algunos testimonimonios de las personas con las que colaboré en Tecnolochicas.</h3>
+      
+      <!-- Carrusel -->
+      <div id="testimonios-carrusel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <img class="testimonio-imagen rounded-circle" src="/portafolioTCPRO-main/imagenes/Miranda.JPG" alt="Foto de Gino">
+              <p class="testimonio-texto"> Liliana, ha demostrado ser una excelente estudiante!. Durante el desarrollo de proyectos, ha mostrado un sólido dominio de tecnologías front-end como HTML, CSS y JavaScript, logrando crear interfaces de usuario atractivas y funcionales.”</p>
+              <div class="testimonio-info">
+                <p class="cliente">Miranda Jaramillo</p>
+                <p class="cargo"> Ingeniera en Software</p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <img class="testimonio-imagen rounded-circle" src="/portafolioTCPRO-main/imagenes/chica.jpg" alt="Foto de Nora">
+              <p class="testimonio-texto">Durante el bootcamp de Tecnolochicas Pro 2023, tuve el gusto de trabajar con Liliana y me complace reconocerla como una talentosa desarrolladora web. Es una persona que le gusta aprender mucho para mejorar en sus habilidades cada día. Ha demostrado ser una persona responsable, comprometida y trabajadora.</p>
+              <div class="testimonio-info">
+                <p class="cliente">Valerie Cristel Lara Díaz</p>
+                <p class="cargo">Estudiante de la Licenciatura en Informática Administrativa en la UAEMéx </p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <img class="testimonio-imagen rounded-circle" src="/portafolioTCPRO-main/imagenes/karen.jpg" alt="Foto de Leonardo">
+              <p class="testimonio-texto">  Liliana, ha desarrollado sus habilidades en programación front-end. Como estudiante, se notó su compromiso y enfoque para aprender y aplicar nuevos conceptos. Es una persona colaborativa y siempre dispuesta a ayudar a sus compañeros.</p>
+              <div class="testimonio-info">
+                <p class="cliente">Keren Mitsue</p>
+                <p class="cargo">Estudiante</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#testimonios-carrusel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#testimonios-carrusel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Siguiente</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Contacto -->
+    <section id="contacto" class="contacto seccion-end">
+      <div class="container">
+        <div class="container text-center rectangulo d-flex justify-content-evenly">
+          <div class="row">
+            <div class="col-12 col-md-4 seccion-titulo">
+              ¡Hablemos!
+            </div>
+            <div class="col-12 col-md-4 descripcion">
+              Contáctame para iniciar tu proyecto de desarrollo web y haré que tu visión se vuelva realidad.
+            </div>
+            <div class="col-12 col-md-4">
+              <a href="mailto:lilidelimon@gmail.com">
+                <button  class="btn btn-info" type="button">  
+                  E-mail
+                  <i class="bi bi-envelope-check-fill"></i>
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Pie de pagina (footer) -->
+    <footer class=" seccion-redes d-flex flex-column align-items-center justify-content-center"> 
+      <img class="footer-logo" src="/portafolioTCPRO-main/imagenes/smile.png" alt="Logo del portafolio">
+      <p class="footer-texto text-center">Aprendo y creo todos los días.<br>Creemos un proyecto juntos :)</p>
+      <div class="iconos-redes-sociales d-flex flex-wrap align-items-center justify-content-center">
+        <a href="https://twitter.com/lilidelimon" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-twitter"></i>
+        </a>
+        <a href="https://github.com/LilianaRosales" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/liliana-rosales-53687a285/" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-linkedin"></i>
+        </a>
+        <a href="https://www.instagram.com/lilidelimon/" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-instagram"></i>
+        </a>
+        <a href="mailto:janedoe@micorreo.com" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-envelope"></i>
+        </a>
+      </div>
+      <div class="derechos-de-autor">Creado por Liliana Rosales  (2023) &#169;</div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+        <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+        <script src="main.js"></script>
+
+  </body>
+</html>
